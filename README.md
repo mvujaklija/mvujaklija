@@ -1,7 +1,7 @@
 - Hello
 My name is Milan Vujaklija and I am MSc Surveying by profession.
 
-I have worked in my profession for 12 years, six of which I spent as the head of the geodetic service.
+I have worked in my profession for 12 years, six of which I spent as the head of the survezing department.
 Since my profession required field work and short absences from home, I decided to make a breakthrough in my career so that I could devote more time to my family. In addition, I reached the point of burnout.
 
 I've always been good at programming so I'm not a total beginner.
